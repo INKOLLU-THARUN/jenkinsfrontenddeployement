@@ -38,7 +38,7 @@ const AboutUs = () => {
         <div className="about-item">
           <img src="accessories.jpg" alt="Accessories" />
           <h3>Accessories</h3>
-          <p>Find the best accessories like pendrives, keyboards, and more.</p>
+          <p>Find the best accessories like pendrives, keyboards, and etc.</p>
         </div>
         </Link>
       </div>
